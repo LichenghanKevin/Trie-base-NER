@@ -26,9 +26,9 @@ print(NER_output)
 ```
 
 # output
+將Trie tree 寫入 display.txt
 
-Display tree
-```
+```python
 from NER_Tree import *
 
 # Load dictionary data and construct trie tree
