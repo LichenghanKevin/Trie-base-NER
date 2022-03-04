@@ -1,4 +1,4 @@
-# Trie_base_NER
+# Trie-base-NER
 
 基於中文字典構建trie tree， 加速 Dictionary-based NER
 
