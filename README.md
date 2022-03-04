@@ -15,6 +15,7 @@ NER_output = tokenize(Trie_tree, sentence)
 print(NER_output)
 
 """
+NER_output=
 [
   ['token1', token1_start_index, token1_end_index],
   ['token2', token2_start_index, token2_end_index],
