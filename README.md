@@ -1,9 +1,9 @@
 # Trie_base_NER
-===
+
 基於中文字典構建trie tree， 加速 Dictionary-based NER
 
 ## 使用方法
----
+
 python
 ```python
 from NER_Tree import *
@@ -29,7 +29,7 @@ NER_output=
 ```
 
 ## output
----
+
 將Trie tree 寫入 display.txt
 
 ```python
